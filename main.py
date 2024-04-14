@@ -37,5 +37,6 @@ elif option == 'PC Camera':
 elif option == 'Mobile Camera':
     detector.detect_from_mobile('http://192.168.1.8:4747/video')
 
+
 else:
     st.write('Invalid option')
