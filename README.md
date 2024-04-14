@@ -23,8 +23,19 @@ Features
 
 3. Install [DroidCam](https://www.dev47apps.com/) on your mobile device:
 
-    DroidCam is available on the Google Play Store (for Android devices) or the App Store (for iOS devices) and on PC it's available for Windows and Linux.
+   
+DroidCam is available on the Google Play Store (for Android devices) or the App Store (for iOS devices) and on PC it's available for Windows and Linux.
    Install it and connect your mobile device to your computer via USB or Wi-Fi.
+
+
+4. Download the YOLOv3 weights:
+
+
+      
+Download the pre-trained YOLOv3 weights from the official YOLO website by running the following command:
+
+    wget https://pjreddie.com/media/files/yolov3.weights
+
 
 # Usage
 ### Running the Streamlit Web Application
