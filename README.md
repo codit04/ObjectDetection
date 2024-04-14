@@ -32,7 +32,7 @@ DroidCam is available on the Google Play Store (for Android devices) or the App 
 
 
       
-Download the pre-trained YOLOv3 weights from the official YOLO website by running the following command:
+Download the pre-trained YOLOv3 weights from the official YOLO website by running the following command and add it to the server directory:
 
     wget https://pjreddie.com/media/files/yolov3.weights
 
