@@ -13,13 +13,13 @@ Features
 1. Clone the repository:
 
 
-    git clone https://github.com/codit03/ObjectDetection.git
-    cd ObjectDetection
+       git clone https://github.com/codit03/ObjectDetection.git
+       cd ObjectDetection
 
 2. Install the required Python dependencies:
 
   
-    pip install -r requirements.txt
+       pip install -r requirements.txt
 
 3. Install [DroidCam](https://www.dev47apps.com/) on your mobile device:
 
